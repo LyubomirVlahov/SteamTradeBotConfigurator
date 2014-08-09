@@ -1,0 +1,145 @@
+﻿
+Log Entry : 00:33:22 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:33:22 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:34:08 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:34:09 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:34:32 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:34:33 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:34:58 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:34:59 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:36:50 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:39:13 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:39:14 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:39:35 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:39:35 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:40:21 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:40:22 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:41:02 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:41:03 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:48:40 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:48:41 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:50:50 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:51:14 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:51:32 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:51:32 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:54:01 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:54:03 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:54:13 28 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 14,Token in error = WHERE ]
+-------------------------------
+
+Log Entry : 00:19:41 29 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:19:41 29 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 21,Token in error = where ]
+-------------------------------
+
+Log Entry : 00:19:42 29 май 2014 г.
+  :
+  :There was an error parsing the query. [ Token line number = 1,Token line offset = 14,Token in error = WHERE ]
+-------------------------------

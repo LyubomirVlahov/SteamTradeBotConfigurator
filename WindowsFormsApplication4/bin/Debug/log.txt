@@ -1,0 +1,50 @@
+
+Log Entry : 23:08:12 12 май 2014 г.
+  :
+  :A duplicate value cannot be inserted into a unique index. [ Table name = Prices,Constraint name = pk_id ]
+-------------------------------
+
+Log Entry : 23:08:14 12 май 2014 г.
+  :
+  :A duplicate value cannot be inserted into a unique index. [ Table name = Prices,Constraint name = pk_id ]
+-------------------------------
+
+Log Entry : 23:08:19 12 май 2014 г.
+  :
+  :A duplicate value cannot be inserted into a unique index. [ Table name = Prices,Constraint name = pk_id ]
+-------------------------------
+
+Log Entry : 23:08:23 12 май 2014 г.
+  :
+  :A duplicate value cannot be inserted into a unique index. [ Table name = Prices,Constraint name = pk_id ]
+-------------------------------
+
+Log Entry : 23:08:32 12 май 2014 г.
+  :
+  :A duplicate value cannot be inserted into a unique index. [ Table name = Prices,Constraint name = pk_id ]
+-------------------------------
+
+Log Entry : 23:08:35 12 май 2014 г.
+  :
+  :A duplicate value cannot be inserted into a unique index. [ Table name = Prices,Constraint name = pk_id ]
+-------------------------------
+
+Log Entry : 23:09:59 12 май 2014 г.
+  :
+  :A duplicate value cannot be inserted into a unique index. [ Table name = Prices,Constraint name = pk_id ]
+-------------------------------
+
+Log Entry : 23:10:00 12 май 2014 г.
+  :
+  :A duplicate value cannot be inserted into a unique index. [ Table name = Prices,Constraint name = pk_id ]
+-------------------------------
+
+Log Entry : 23:10:04 12 май 2014 г.
+  :
+  :A duplicate value cannot be inserted into a unique index. [ Table name = Prices,Constraint name = pk_id ]
+-------------------------------
+
+Log Entry : 23:10:08 12 май 2014 г.
+  :
+  :A duplicate value cannot be inserted into a unique index. [ Table name = Prices,Constraint name = pk_id ]
+-------------------------------
